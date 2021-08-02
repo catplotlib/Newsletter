@@ -13,7 +13,7 @@ Create a virtual environment.(Recommended)
 ```
 python3 -m venv env
 cd env
-env\Scripts\activate
+Scripts\activate
 ```
 
 ```
