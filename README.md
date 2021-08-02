@@ -1,6 +1,13 @@
 # Newsletter
 A fullstck application that lets the users to join a newsletter by through their email address. Frontend is made in react and Tailwindcss and backend is made using Django Rest Framework.
 
+# Demo
+
+
+https://user-images.githubusercontent.com/61319491/127825194-b74344d7-24c7-4fa4-86f7-f4ae935a45d9.mp4
+
+
+
 # How to run in your machine
 
 ## Backend
